@@ -1,0 +1,7 @@
+pynmodl
+textx
+brute-curvefit
+numpy
+neuron
+matplotlib
+pymoose
